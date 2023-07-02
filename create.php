@@ -1,4 +1,5 @@
 <?php
+
 //adding client to the DB 
 //connect to the DB 
 $servername = "localhost";
